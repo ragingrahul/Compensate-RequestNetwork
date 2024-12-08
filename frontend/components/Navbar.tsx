@@ -30,9 +30,9 @@ export function Navbar(props: Props) {
         >
             <div className="flex justify-between items-center w-full">
                 <img
-                    src="/logo2.png"
+                    src="/Logo.png"
                     alt="logo"
-                    className="w-[240px] h-[40px]"
+                    className="w-[240px] h-[45px]"
                 />
                 <ShimmerButton
                     title={props.title}
