@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/rahulrajsarma/Documents/Projects/Paw3/contracts/contracts/Payright.sol": {
+      "lastModificationDate": 1730358754963,
+      "contentHash": "f1984a1d668036e82acec82bd053d104",
+      "sourceName": "contracts/Payright.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Payright"
+      ]
+    }
+  }
+}
